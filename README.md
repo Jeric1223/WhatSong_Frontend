@@ -1,3 +1,13 @@
+# WhatSong
+
+**오늘의 추천곡과 장르별 차트를 보여주고, 이상형 월드컵 방식으로 곡을 골라보는 음악 추천 프런트엔드입니다.**
+
+## 화면
+
+[![오늘의 추천곡 화면](./docs/hero.png)](./docs/hero.png)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
